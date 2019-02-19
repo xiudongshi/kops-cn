@@ -46,7 +46,7 @@ quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.20.0
 k8s.gcr.io/etcd:3.2.18
 
 #Kubernates dashboard
-k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
 
 # Istio with master branch
 gcr.io/istio-release/proxy_init:master-latest-daily
